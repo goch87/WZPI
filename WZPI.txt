@@ -4,3 +4,9 @@ WZPI test
 WERSJA GŁÓWNA PLIKU
 
 ZMIANA WERSJI GŁÓWNEJ
+	
+	Zmiana 1
+	
+	Zmiana 2
+	
+	Zmiana 3
